@@ -11,7 +11,7 @@ The graphical user interface is a form of user interface that allows use
 
 ## Requirements
 
-- Java U8- a general purpose computer programming language that is concurrent, class-based and object oriented. 
+- Java 8- a general purpose computer programming language that is concurrent, class-based and object oriented. 
 - Netbeans- used to quickly and easily develop Java desktop, mobile and web applications. 
 - Notepad- to store the source codes. 
 - JDK (Java Development Kit) – one of the three core technology packages used in java 
